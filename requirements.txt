@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain-openai
+langchain-gigachat
+python-dotenv
+pyjwt
+requests
+langchain
